@@ -15,7 +15,7 @@ class _signupScreenState extends State<signupScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Sign Up'), // Optional: Add a title to the app bar
+        title: Text('Sign up'), // Optional: Add a title to the app bar
       ),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 20),
